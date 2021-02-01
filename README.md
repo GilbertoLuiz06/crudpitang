@@ -1,6 +1,6 @@
 
 # CRUD-JAVA-Pitang
-CRUD/CIDA com Java utilizando o gerenciador de dependências 
+CRUD/CIDA em Java 
 
 - Java Web
 - Maven
@@ -8,4 +8,6 @@ CRUD/CIDA com Java utilizando o gerenciador de dependências
 - SQL
 - JDBC
 - Tomcat
+
+Utilizar o browser para uma melhor experiencia.
 
